@@ -14,12 +14,7 @@
 
   You can make a ground with
 addlevel([
-  '    '
-  '    '
-  '    '
-  '    '
-  'xxxx'
-],{
+
   width-value:#,
   height-value:#,
   })
