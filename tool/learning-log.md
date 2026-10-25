@@ -11,7 +11,7 @@
 * Making a repel to start
 * adding a sprite(you can give a name, width and height value to it)
 * to make the sprite you can draw a pixel art of it
-* You can make a ground with
+  You can make a ground with
 addlevel([
   '    '
   '    '
