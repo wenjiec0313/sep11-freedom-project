@@ -13,7 +13,7 @@
 * to make the sprite you can draw a pixel art of it
 * You can make a ground with addlevel and applying width and height values to it
 * you also need to draw the ground sprite, to make sure your character doesn't fall through the ground u need to make sure it has the solid property
-* overall you're applying functions/properties to each variable in the game therefore making it function
+* overall you're applying functions/properties to each variable in the game 
 ### X/X/XX:
 * Text
 
