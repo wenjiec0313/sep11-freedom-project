@@ -11,13 +11,7 @@
 * Making a repel to start
 * adding a sprite(you can give a name, width and height value to it)
 * to make the sprite you can draw a pixel art of it
-
-  You can make a ground with
-addlevel([
-
-  width-value:#,
-  height-value:#,
-  })
+* You can make a ground with addlevel and applying width and height values to it
 * you also need to draw the ground sprite, to make sure your character doesn't fall through the ground u need to make sure it has the solid property
 
 }
