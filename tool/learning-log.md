@@ -1,13 +1,13 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Kaboom**
 
 ## Project: **X**
 
 ---
 
-### X/X/XX:
-* Text
+### 10/25/26
+* Checked out a [video]{https://www.youtube.com/watch?v=4OaHB0JbJDI} on the basics
 
 ### X/X/XX:
 * Text
