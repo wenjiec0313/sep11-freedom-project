@@ -1,7 +1,8 @@
 # Entry 1
-##### X/X/XX
+##### 11/15/2026
 
-Text
+### Context
+I ended going with (kaboom)[https://kaboomjs.com/} as my tool,
 
 [Next](entry02.md)
 
